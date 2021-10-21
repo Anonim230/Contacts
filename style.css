@@ -1,0 +1,12 @@
+input:required {
+    transition: 3s;
+    border: 4px double cyan;
+    box-shadow: 5px 3px 5px cyan inset;
+}
+
+input:required:hover {
+    /* box-shadow: 3px 2px 2px aquamarine inset;
+    color: grey;
+    background: wheat; */
+    width: 120%;
+}
